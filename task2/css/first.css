@@ -1,7 +1,7 @@
 header {
   background-color: #811f1f;
   color: #fff;
-  padding: 20px;
+
   text-align: center;
   font-size: 30px;
   font-weight: bold;
@@ -12,9 +12,8 @@ header {
 }
 header ul {
   display: flex;
-  color: #332727;
+  color: #ffffff;
   text-decoration: none;
-  margin: 0 10px;
 }
 
 header ul li {
