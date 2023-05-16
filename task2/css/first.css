@@ -6,4 +6,18 @@ header {
   font-size: 30px;
   font-weight: bold;
   font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+header ul {
+  display: flex;
+  color: #332727;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+header ul li {
+  list-style: none;
+  margin: 0 10px;
 }
