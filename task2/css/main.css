@@ -10,3 +10,10 @@ section {
   padding: 20px;
   background-color: #fff;
 }
+
+section div {
+  width: 30%;
+  height: 200px;
+  margin: 10px;
+  background-color: #ccc;
+}
