@@ -1,0 +1,25 @@
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  font-size: 17px;
+  font-weight: bold;
+  font-family: "Roboto", sans-serif;
+}
+footer p {
+  margin: 0;
+}
+footer a {
+  color: #fff;
+  text-decoration: none;
+}
+footer a:hover {
+  color: #fff;
+  text-decoration: underline;
+}
+/* Path: task2/css/first.css */
+/* Compare this snippet from task2/css/styles.css: */
+/* body { */
+/*   background-color: aqua; */
+/* } */

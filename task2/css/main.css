@@ -1,0 +1,12 @@
+body {
+  background-color: antiquewhite;
+}
+
+section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 20px;
+  background-color: #fff;
+}
